@@ -61,6 +61,7 @@ plt.title("study hours vs scores")
 plt.plot(loss)
 plt.xlabel("iterations")
 plt.ylabel("loss")
+```
 ## Output:
 ![output](simplelin1.png)
 ![output](simplelin2.png)
