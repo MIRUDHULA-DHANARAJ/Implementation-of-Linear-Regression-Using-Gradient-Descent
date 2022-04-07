@@ -9,12 +9,19 @@ To write a program to implement the linear regression using gradient descent.
 
 ## Algorithm
 1.For Gradient Design use the standard libraries in the python.
+
 2.Use the .isnull()function to check the empty .
+
 3.Use the default function.
+
 4.Use the loop function for a linear equation.
+
 5.Predict the value for the y.
+
 6.Print the program.
+
 7.plot the graph by using scatters keyword.
+
 8.End the program
 
 ## Program:
