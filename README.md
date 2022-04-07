@@ -61,14 +61,9 @@ plt.title("study hours vs scores")
 plt.plot(loss)
 plt.xlabel("iterations")
 plt.ylabel("loss")
-Output:
-linear regression using gradient descent
-*/
-```
-
 ## Output:
-! [output](simplelin1.png)
-! [output](simplelin2.png)
+![output](simplelin1.png)
+![output](simplelin2.png)
 
 
 ## Result:
